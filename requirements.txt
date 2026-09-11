@@ -6,7 +6,6 @@ requests
 aiohttp
 psutil
 yt-dlp
-heroku3
 pyyaml
 speedtest-cli
 wget
